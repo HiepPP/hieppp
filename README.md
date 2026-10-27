@@ -14,7 +14,7 @@ I build native macOS tools and tooling for AI coding agents. Swift, Rust, and Ty
 
 | Project | What it does |
 | --- | --- |
-| [bachuc](https://github.com/hieppp/bachuc) | One interface for Claude Code, Codex, Copilot, OpenCode, and Pi agents. Fork of Paseo. |
+| [bachuc](https://github.com/hieppp/bachuc) | Fork of Paseo, rebuilt on Rust and GPUI with dedicated Rust plugins. One interface for Claude Code, Codex, Copilot, OpenCode, and Pi agents. |
 | [watchtower](https://github.com/hieppp/watchtower) | VS Code sidebar for browsing LLM plan files in a workspace. |
 | [hiep-paseo-plugin](https://github.com/hieppp/hiep-paseo-plugin) | Paseo plugin that exposes Jev evaluations through MCP. |
 
